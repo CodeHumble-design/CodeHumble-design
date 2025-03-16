@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**CodeHumble-design/CodeHumble-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to the **CodeHumble.io**!🚀
 
-Here are some ideas to get you started:
+This repository provides a treasure trove of project ideas in the realms of electronics, IoT, and beyond. Whether you're an enthusiast, a student, or a professional, you'll find inspiration for your next project here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+The projects are designed for use with:
+- **STM32 Family**: Robust microcontrollers with diverse applications.
+- **ESP32 Family**: Wi-Fi and Bluetooth-enabled controllers for IoT.
+- **NRF Series**: Perfect for low-power wireless connectivity.
+- **Raspberry Pi**: A versatile mini-computer for complex projects.
+---
+
+Happy tinkering! 🌟
